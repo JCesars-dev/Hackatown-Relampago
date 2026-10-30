@@ -22,9 +22,13 @@ Um app pra fazer os 15 minutos de intervalo renderem. O aluno pede **antes do si
 
 | Integrante | Papel |
 |---|---|
-| _Nome_ | _ex.: código / UI_ |
-| _Nome_ | _ex.: regras de slot e fila_ |
-| _Nome_ | _ex.: README e vídeo_ |
+| João Gabriel| Interface e CSS (telas, cartão do pedido, radar) |
+| Matheus Lucena | Regras de slot e capacidade |
+| Theo Monteiro | Checkout e formas de pagamento |
+| Larissa Almeida | Cardápio, estoque e filtro por tempo |
+| Mateus Lacerda | Status da cantina e fila |
+| Julio Cesar | README e análise dos princípios |
+| Caio Brayner | Vídeo e testes da demo |
 
 ## Como rodar
 
