@@ -29,6 +29,7 @@ Um app pra fazer os 15 minutos de intervalo renderem. O aluno pede **antes do si
 | Mateus Lacerda | Status da cantina e fila |
 | Julio Cesar | README e análise dos princípios |
 | Caio Brayner | Vídeo e testes da demo |
+| Jhorge Araújo | Apoio na revisão do código e na gravação do vídeo |
 
 ## Como rodar
 
