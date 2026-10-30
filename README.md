@@ -48,7 +48,7 @@ Esta é a versão **go-horse**: tudo num arquivo só, de propósito. Ela serve d
 | **Acoplamento** | ❌ Regra de negócio, UI e até o CSS do design no mesmo arquivo; não dá pra testar sem a interface. | arquivo todo |
 | **Integridade conceitual** | ✅ Uma ideia central (render o intervalo) guia todas as telas: tempo aparece em tudo (fila, filtro, slot, aviso). | fluxo do app |
 
-**Métrica (complexidade ciclomática):** o bloco de checkout (linhas ~391–429) tem 12 pontos de decisão → **complexidade 13**. Vamos medir de novo na Entrega 2.
+**Métrica (complexidade ciclomática):** o bloco de checkout (linhas ~391–429) tem 13 pontos de decisão → **complexidade 14**. Vamos medir de novo na Entrega 2.
 
 ## Plano pra Entrega 2 (PoC refatorada)
 
